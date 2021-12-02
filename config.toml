@@ -131,12 +131,12 @@ disqusShortname = ""
     # Uses font awesome icons
     [[params.footer.social]]
       icon = "fa-twitter"
-      url= "https://www.twitter.com/vfarcic"
+      url= "https://www.twitter.com/krainet"
       label = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com/vfarcic"
+      url= "https://www.github.com/krainet"
       label = "GitHub"
 
     [[params.footer.social]]

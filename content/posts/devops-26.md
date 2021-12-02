@@ -8,4 +8,4 @@ draft: false
 
 ### Cloud-Native Kubernetes-First Continuous Delivery
 
-This book was removed from sales and the repository with the manuscript ([vfarcic/devops26](https://github.com/vfarcic/devops26)) has been donated to the community.
+This book was removed from sales and the repository with the manuscript ([krainet/devops26](https://github.com/krainet/devops26)) has been donated to the community.
